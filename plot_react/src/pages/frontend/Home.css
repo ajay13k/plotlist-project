@@ -1,0 +1,22 @@
+p.chakra-text.css-1r83ijl{
+    margin-left: -1px;
+}
+.carousel .carousel-status {
+    text-shadow:none;
+}
+
+
+.loader {
+    font-family: sans-serif;
+    text-align: center;
+  }
+  img.listingImage.css-mg62ow {
+    height: 350px;
+    width: 380px;
+}
+  @media screen and (min-width: 48em){
+  .customtext.css-l36095 {
+        line-height: 3.2;
+    }
+  }
+
